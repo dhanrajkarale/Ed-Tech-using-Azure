@@ -585,6 +585,9 @@ header #menu{
         width: 10%;
         margin-top: 1%;
     }
+    .end{
+        font-size: 1em;
+    }
 }
 
 @media (max-width:500px){
@@ -615,6 +618,7 @@ header #menu{
 }
 
 .end{
+    width:100%;
     text-align: center;
     background-color: #333;
     color: white;
